@@ -1,1 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flwrian&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="logo.svg" alt="Logo" width="240"/>
+</div>
+
+--- 
+I'm Florian, working on [Aspira](https://github.com/Flwrian/Aspira), a chess engine written in Java.
+
+Currently focused on bitboards, alpha-beta search, and algorithm optimization.
